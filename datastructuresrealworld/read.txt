@@ -1,0 +1,22 @@
+A comparison of Arrays, Linked Lists, and Binary Search Trees (BST), followed by the implementation of a simple program that solves a real-world problem: managing and searching a collection of books.
+
+Each implementation will:
+
+Accept user input to add books.
+Search for a book by title.
+We'll then analyze and display the Big O time complexity for operations like insertion and search.
+
+Real-World Problem: Managing a Collection of Books
+Each implementation stores a list of books where users can:
+
+Add a book by title.
+Search for a book by title.
+
+
+For small datasets, arrays and linked lists may suffice. For larger datasets requiring efficient search and insertion, a BST is recommended.
+
+
+
+
+
+
